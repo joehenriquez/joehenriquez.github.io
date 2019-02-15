@@ -10,7 +10,7 @@ body:before{
   content:'';
   height:100%;
   display:inline-block;
-  vertical-align:middle;
+  /* vertical-align:middle; */
 }
 button{
   background:#1AAB8A;
