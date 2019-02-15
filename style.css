@@ -54,6 +54,6 @@ button:hover:before,button:hover:after{
   color:#fff;
   border:none;
   position:relative;
-  padding:0;
+  padding:0 2em;
   
 }
