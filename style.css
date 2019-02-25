@@ -13,7 +13,7 @@ body:before{
   /* vertical-align:middle; */
 }
 header{
-  display: block;
+  display: inline-block;
 }
 button{
   background:#1AAB8A;
