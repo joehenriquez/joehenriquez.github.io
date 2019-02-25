@@ -55,11 +55,11 @@ button:hover:before,button:hover:after{
 }
 
 .titl {
-  background:#1AAB8A;
-  color:#fff;
+  background-color:#fff;
   border:none;
   position:relative;
   padding:3px 3px;
   display: inline;
+  height: 60px;
   
 }
