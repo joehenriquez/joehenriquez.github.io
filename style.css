@@ -22,9 +22,9 @@ button{
   color:#fff;
   border:none;
   position:relative;
-  height:50px; 
-  font-size:1.2em;
-  padding:0 1.8em;
+  height:45px; 
+  font-size:1.1em;
+  padding:0 1.6em;
   cursor:pointer;
   transition:800ms ease all;
   outline:none;
