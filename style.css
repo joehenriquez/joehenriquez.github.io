@@ -14,8 +14,8 @@ body:before{
   /* vertical-align:middle; */
 }
 header{
-  top: 30px;
-  left 30px;
+  top: 40px;
+  left: 40px;
   display: inline-block;
   background-color: white;
   height: 60px;
