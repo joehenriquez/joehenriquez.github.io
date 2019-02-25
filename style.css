@@ -12,6 +12,9 @@ body:before{
   /* display:inline-block; */
   /* vertical-align:middle; */
 }
+header{
+  display: block;
+}
 button{
   background:#1AAB8A;
   color:#fff;
