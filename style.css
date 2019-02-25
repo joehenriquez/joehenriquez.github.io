@@ -55,5 +55,6 @@ button:hover:before,button:hover:after{
   border:none;
   position:relative;
   padding:0 2em;
+  display: inline;
   
 }
