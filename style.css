@@ -57,7 +57,7 @@ button:hover:before,button:hover:after{
   color:#fff;
   border:none;
   position:relative;
-  padding:0 2em;
+  padding:3px 3px;
   display: inline;
   
 }
