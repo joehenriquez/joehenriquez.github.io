@@ -19,7 +19,7 @@ header{
   display: inline-block;
   background-color: white;
   height: 60px;
-  width: 80%;
+  width: 85%;
   margin: 25px;
 }
 button{
@@ -68,3 +68,6 @@ button:hover:before,button:hover:after{
 
   
 }
+.cont {
+  width:90%;
+  background-color: white;
