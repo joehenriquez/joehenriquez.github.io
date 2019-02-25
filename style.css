@@ -16,6 +16,7 @@ body:before{
 header{
   display: inline-block;
   background-color: white;
+  height: 60px;
 }
 button{
   background:#1AAB8A;
@@ -60,6 +61,6 @@ button:hover:before,button:hover:after{
   position:relative;
   padding:3px 3px;
   display: inline;
-  height: 60px;
+
   
 }
