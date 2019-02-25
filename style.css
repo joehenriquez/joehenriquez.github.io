@@ -77,5 +77,6 @@ button:hover:before,button:hover:after{
 }
 .hbtn{
  float: right; 
+ margin: 7.5px;
 }
   
