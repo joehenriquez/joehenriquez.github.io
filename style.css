@@ -73,3 +73,4 @@ button:hover:before,button:hover:after{
   background-color: white;
   display: block;
   margin: 0 25px;
+  overflow-wrap: break-word;
