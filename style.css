@@ -71,3 +71,4 @@ button:hover:before,button:hover:after{
 .cont {
   width:90%;
   background-color: white;
+  display: block;
