@@ -72,3 +72,4 @@ button:hover:before,button:hover:after{
   width:90%;
   background-color: white;
   display: block;
+  margin: 0 25px;
