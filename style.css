@@ -3,6 +3,7 @@ html,body{
   height:100%;
 }
 body{
+  color: #C0C0C0;
 
   /* text-align:center; */
 }
@@ -14,6 +15,7 @@ body:before{
 }
 header{
   display: inline-block;
+  background-color: white;
 }
 button{
   background:#1AAB8A;
