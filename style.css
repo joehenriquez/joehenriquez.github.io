@@ -76,6 +76,7 @@ button:hover:before,button:hover:after{
   display: block;
   margin: 0 25px;
   overflow-wrap: break-word;
+  border: 1px solid #C0C0C0;
 }
 .hbtn{
  float: right; 
