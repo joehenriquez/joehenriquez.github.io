@@ -65,6 +65,7 @@ button:hover:before,button:hover:after{
   position:relative;
   /* padding:3px 3px; */
   display: inline;
+  margin: 10px;
 
   
 }
