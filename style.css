@@ -4,7 +4,7 @@ html,body{
 }
 body{
   background-color: #EEE8AA;
-
+  font-weight: normal;
   /* text-align:center; */
 }
 body:before{
@@ -63,10 +63,14 @@ button:hover:before,button:hover:after{
 .titl {
   background-color:#fff;
   border:none;
-  position:relative;
+  /* position:relative; */
   /* padding:3px 3px; */
   display: inline;
   margin: 10px;
+  
+    position:  absolute;
+   top: 50%;
+   transform: translateY(-50%);
 
   
 }
