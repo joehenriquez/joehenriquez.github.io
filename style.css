@@ -67,9 +67,9 @@ button:hover:before,button:hover:after{
   display: inline;
   margin: 10px;
   
-   /* position:  absolute;
+   /* position:  absolute; */
    top: 50%;
-   transform: translateY(-50%); */
+   transform: translateY(-50%); 
 
   
 }
